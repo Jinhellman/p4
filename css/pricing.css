@@ -7,6 +7,9 @@ background-position: center;
 span{
   font-weight: 600;
 }
+input:focus, textarea:focus, select:focus, a:focus, i:focus, button:focus{
+outline: none;
+}
 .nav-item{
   font-size: 1.25rem;
 }
